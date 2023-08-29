@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @genfilweb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-genfilweb/genfilweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, я @genfilweb
+- 👀 Меня интересует мир разработки и программирования.
+- 🌱 В данный момент изучаю различные языки программирования и технологии.
+- 💞️ Буду рад сотрудничеству над проектами, связанными с веб-разработкой и программированием.
+- 📫 Вы можете связаться со мной по электронной почте: genfilweb@gmail.com
